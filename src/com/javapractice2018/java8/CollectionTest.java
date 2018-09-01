@@ -1,4 +1,4 @@
-package com.java8;
+package com.javapractice2018.java8;
 
 import java.util.HashSet;
 import java.util.LinkedHashSet;

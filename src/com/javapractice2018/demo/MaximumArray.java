@@ -1,3 +1,5 @@
+package com.javapractice2018.demo;
+
 
 public class MaximumArray {
 

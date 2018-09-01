@@ -1,4 +1,4 @@
-package com.javainterviews2018;
+package com.javapractice2018.javainterviews2018;
 
 import java.util.Iterator;
 import java.util.Set;
